@@ -1,3 +1,3 @@
-# This is our docker file, test
+# This is our docker file
 FROM nginx
 COPY index.html /usr/share/nginx/html
